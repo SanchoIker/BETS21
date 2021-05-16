@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-23 22:51:45 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 1340@LAPTOP-PR5SQP5G
+
+[2021-04-23 22:51:45 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-23 22:51:45 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-04-23 22:51:45 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-23 22:51:45 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-04-23 22:51:45 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-04-23 22:51:45 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-23 22:51:45 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-23 22:51:45 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-23 22:51:45 #10 type] 
+Type domain.Administratzailea is not enhanced.
+

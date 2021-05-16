@@ -1,0 +1,5359 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 16:09:39 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 2796@DESKTOP-9IGFIE3
+
+[2021-05-15 16:09:39 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 16:09:39 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 16:09:39 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 16:09:39 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 16:09:39 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 16:09:39 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 16:09:39 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 16:09:39 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 16:09:39 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 16:56:00 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 24-25)
+
+[2021-05-15 16:56:00 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 528@DESKTOP-9IGFIE3
+
+[2021-05-15 16:56:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 16:56:00 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 16:56:00 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 16:56:00 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 16:56:00 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 16:56:00 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 16:56:00 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 16:56:00 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 16:56:00 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 16:56:34 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 3980@DESKTOP-9IGFIE3
+
+[2021-05-15 16:56:34 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 16:56:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 16:56:34 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 16:56:34 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 16:56:34 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 16:56:34 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 16:56:34 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 16:56:34 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 16:56:34 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 16:56:34 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 16:56:34 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 16:56:34 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 16:56:34 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 16:56:34 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 16:56:34 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 16:56:34 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 16:56:34 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 16:56:34 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 16:56:34 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 16:56:34 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 16:56:34 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 16:56:34 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 16:56:34 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 16:57:30 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 8416@DESKTOP-9IGFIE3
+
+[2021-05-15 16:57:31 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 16:57:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 16:57:31 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 16:57:31 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 16:57:31 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 16:57:31 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 16:57:31 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 16:57:31 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 16:57:31 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 16:57:31 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 16:57:31 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 16:57:31 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 16:57:31 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 16:57:31 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 16:57:31 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 16:57:31 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 16:57:31 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 16:57:31 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 16:57:31 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 16:57:31 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 16:57:31 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 16:57:31 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 16:57:31 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 16:58:21 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 16:58:21 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 5752@DESKTOP-9IGFIE3
+
+[2021-05-15 16:58:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 16:58:21 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 16:58:21 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 16:58:21 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 16:58:21 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 16:58:21 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 16:58:21 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 16:58:21 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 16:58:21 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:01:08 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 14-14)
+
+[2021-05-15 17:01:08 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 13548@DESKTOP-9IGFIE3
+
+[2021-05-15 17:01:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:01:08 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:01:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:01:08 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:01:08 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:01:08 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:01:08 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:01:08 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:01:08 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:02:34 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 9460@DESKTOP-9IGFIE3
+
+[2021-05-15 17:02:34 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 17:02:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:02:34 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 17:02:34 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 17:02:34 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:02:34 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 17:02:34 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 17:02:34 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:02:34 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 17:02:34 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:02:34 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:02:34 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 17:02:34 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 17:02:34 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:02:34 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:02:34 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 17:02:34 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:02:34 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 17:02:34 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 17:02:34 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 17:02:34 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 17:02:34 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 17:02:34 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:03:16 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 17:03:17 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 8292@DESKTOP-9IGFIE3
+
+[2021-05-15 17:03:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:03:17 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:03:17 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:03:17 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:03:17 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:03:17 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:03:17 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:03:17 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:03:17 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:06:29 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 5552@DESKTOP-9IGFIE3
+
+[2021-05-15 17:06:29 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:06:29 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:06:29 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:06:29 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:06:29 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:06:29 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:06:29 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:06:29 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:06:29 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:06:38 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 15888@DESKTOP-9IGFIE3
+
+[2021-05-15 17:06:38 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:06:38 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:06:38 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:06:38 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:06:38 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:06:38 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:06:38 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:06:38 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:06:38 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:07:00 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 9336@DESKTOP-9IGFIE3
+
+[2021-05-15 17:07:00 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:07:00 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:07:00 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:07:00 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:07:00 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:07:00 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:07:00 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:07:00 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:07:00 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:07:13 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 4064@DESKTOP-9IGFIE3
+
+[2021-05-15 17:07:14 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:07:14 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:07:14 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:07:14 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:07:14 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:07:14 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:07:14 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:07:14 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:07:14 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:08:40 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 15-15)
+
+[2021-05-15 17:08:40 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 1332@DESKTOP-9IGFIE3
+
+[2021-05-15 17:08:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:08:40 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:08:40 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:08:40 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:08:40 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:08:40 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:08:40 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:08:40 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:08:40 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:11:55 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 10580@DESKTOP-9IGFIE3
+
+[2021-05-15 17:11:55 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 17:11:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:11:55 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 17:11:55 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 17:11:55 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:11:55 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 17:11:55 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 17:11:55 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:11:55 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 17:11:55 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:11:55 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:11:55 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 17:11:55 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 17:11:55 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:11:55 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:11:55 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 17:11:55 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:11:55 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 17:11:55 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 17:11:55 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 17:11:55 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 17:11:55 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 17:11:55 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:12:42 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 17:12:42 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 1348@DESKTOP-9IGFIE3
+
+[2021-05-15 17:12:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:12:42 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:12:42 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:12:42 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:12:42 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:12:42 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:12:42 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:12:42 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:12:42 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:14:04 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 14-14)
+
+[2021-05-15 17:14:04 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 7776@DESKTOP-9IGFIE3
+
+[2021-05-15 17:14:05 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:14:05 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:14:05 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:14:05 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:14:05 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:14:05 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:14:05 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:14:05 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:14:05 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:16:30 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 12308@DESKTOP-9IGFIE3
+
+[2021-05-15 17:16:30 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 17:16:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:16:30 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 17:16:30 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 17:16:30 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:16:30 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 17:16:30 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 17:16:30 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:16:30 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 17:16:30 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:16:30 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:16:30 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 17:16:30 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 17:16:30 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:16:30 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:16:30 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 17:16:30 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:16:30 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 17:16:30 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 17:16:30 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 17:16:30 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 17:16:30 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 17:16:30 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:16:37 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 13836@DESKTOP-9IGFIE3
+
+[2021-05-15 17:16:37 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 17:16:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:16:37 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 17:16:37 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 17:16:37 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:16:37 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 17:16:37 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 17:16:37 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:16:37 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 17:16:37 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:16:37 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:16:37 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 17:16:37 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 17:16:37 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:16:37 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:16:37 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 17:16:37 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:16:37 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 17:16:37 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 17:16:37 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 17:16:37 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 17:16:37 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 17:16:37 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:17:16 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 17:17:16 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 17180@DESKTOP-9IGFIE3
+
+[2021-05-15 17:17:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:17:16 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:17:16 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:17:16 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:17:16 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:17:16 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:17:16 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:17:16 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:17:16 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:17:22 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 13368@DESKTOP-9IGFIE3
+
+[2021-05-15 17:17:23 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:17:23 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:17:23 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:17:23 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:17:23 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:17:23 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:17:23 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:17:23 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:17:23 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:19:33 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 14-14)
+
+[2021-05-15 17:19:33 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 14472@DESKTOP-9IGFIE3
+
+[2021-05-15 17:19:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:19:34 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:19:34 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:19:34 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:19:34 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:19:34 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:19:34 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:19:34 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:19:34 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:21:36 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 6576@DESKTOP-9IGFIE3
+
+[2021-05-15 17:21:36 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 17:21:36 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:21:36 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 17:21:36 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 17:21:36 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:21:36 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 17:21:36 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 17:21:36 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:21:36 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 17:21:36 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:21:36 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:21:36 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 17:21:36 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 17:21:36 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:21:36 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:21:36 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 17:21:36 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:21:36 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 17:21:36 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 17:21:36 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 17:21:36 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 17:21:36 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 17:21:36 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:22:10 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 17:22:10 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 14424@DESKTOP-9IGFIE3
+
+[2021-05-15 17:22:10 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:22:10 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:22:10 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:22:10 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:22:10 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:22:10 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:22:10 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:22:10 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:22:10 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:27:23 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 14784@DESKTOP-9IGFIE3
+
+[2021-05-15 17:27:23 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 17:27:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:27:23 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 17:27:23 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 17:27:23 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:27:23 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 17:27:23 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 17:27:23 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:27:23 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 17:27:23 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:27:23 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:27:23 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 17:27:23 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 17:27:23 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:27:23 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:27:23 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 17:27:23 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:27:23 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 17:27:23 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 17:27:23 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 17:27:23 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 17:27:23 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 17:27:23 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:28:01 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 17:28:01 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 2252@DESKTOP-9IGFIE3
+
+[2021-05-15 17:28:01 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:28:01 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:28:01 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:28:01 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:28:01 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:28:01 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:28:01 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:28:01 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:28:01 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:28:39 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 14-17)
+
+[2021-05-15 17:28:39 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 7024@DESKTOP-9IGFIE3
+
+[2021-05-15 17:28:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:28:39 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:28:39 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:28:39 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:28:39 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:28:39 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:28:39 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:28:39 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:28:39 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:33:47 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 8564@DESKTOP-9IGFIE3
+
+[2021-05-15 17:33:47 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:33:47 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:33:47 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:33:47 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:33:47 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:33:47 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:33:47 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:33:47 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:33:47 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:34:53 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 18-19)
+
+[2021-05-15 17:34:53 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 1972@DESKTOP-9IGFIE3
+
+[2021-05-15 17:34:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:34:53 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:34:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:34:53 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:34:53 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:34:53 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:34:53 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:34:53 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:34:53 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:35:26 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 20-20)
+
+[2021-05-15 17:35:26 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 10628@DESKTOP-9IGFIE3
+
+[2021-05-15 17:35:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:35:26 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:35:26 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:35:26 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:35:26 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:35:26 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:35:26 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:35:26 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:35:26 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:52:15 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 7628@DESKTOP-9IGFIE3
+
+[2021-05-15 17:52:15 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 17:52:15 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:52:15 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 17:52:15 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 17:52:15 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:52:15 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 17:52:15 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 17:52:15 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:52:15 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 17:52:15 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:52:15 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:52:15 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 17:52:15 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 17:52:15 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:52:15 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:52:15 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 17:52:15 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:52:15 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 17:52:15 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 17:52:15 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 17:52:15 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 17:52:15 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 17:52:15 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:54:51 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 12828@DESKTOP-9IGFIE3
+
+[2021-05-15 17:54:51 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 17:54:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:54:51 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 17:54:51 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 17:54:51 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:54:51 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 17:54:51 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 17:54:51 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:54:51 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 17:54:51 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:54:51 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:54:51 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 17:54:51 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 17:54:51 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:54:51 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:54:51 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 17:54:51 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:54:51 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 17:54:51 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 17:54:51 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 17:54:51 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 17:54:51 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 17:54:51 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:54:57 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 10532@DESKTOP-9IGFIE3
+
+[2021-05-15 17:54:57 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 17:54:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:54:57 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 17:54:57 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 17:54:57 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:54:57 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 17:54:57 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 17:54:57 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:54:57 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 17:54:57 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:54:57 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:54:57 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 17:54:57 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 17:54:57 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:54:57 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:54:57 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 17:54:57 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:54:57 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 17:54:57 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 17:54:57 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 17:54:57 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 17:54:57 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 17:54:57 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:57:21 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-15)
+
+[2021-05-15 17:57:21 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 16508@DESKTOP-9IGFIE3
+
+[2021-05-15 17:57:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:57:21 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:57:21 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:57:21 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:57:21 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:57:21 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:57:21 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:57:21 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:57:21 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:57:32 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 8380@DESKTOP-9IGFIE3
+
+[2021-05-15 17:57:32 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:57:32 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:57:32 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:57:32 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:57:32 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:57:32 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:57:32 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:57:32 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:57:32 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 17:58:02 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 16-21)
+
+[2021-05-15 17:58:02 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 10040@DESKTOP-9IGFIE3
+
+[2021-05-15 17:58:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 17:58:02 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 17:58:02 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 17:58:02 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 17:58:02 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 17:58:02 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 17:58:02 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 17:58:02 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 17:58:02 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:07:20 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 15276@DESKTOP-9IGFIE3
+
+[2021-05-15 18:07:20 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:07:20 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:07:20 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:07:20 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:07:20 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:07:20 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:07:20 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:07:20 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:07:20 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:07:42 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 12316@DESKTOP-9IGFIE3
+
+[2021-05-15 18:07:42 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:07:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:07:42 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:07:42 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:07:42 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:07:42 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:07:42 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:07:42 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:07:42 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:07:42 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:07:42 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:07:42 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:07:42 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:07:42 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:07:42 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:07:42 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:07:42 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:07:42 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:07:42 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:07:42 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:07:42 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:07:42 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:07:42 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:10:03 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 18:10:03 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 3808@DESKTOP-9IGFIE3
+
+[2021-05-15 18:10:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:10:04 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:10:04 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:10:04 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:10:04 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:10:04 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:10:04 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:10:04 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:10:04 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:10:59 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 12184@DESKTOP-9IGFIE3
+
+[2021-05-15 18:10:59 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:10:59 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:10:59 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:10:59 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:10:59 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:10:59 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:10:59 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:10:59 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:10:59 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:11:42 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 14804@DESKTOP-9IGFIE3
+
+[2021-05-15 18:11:42 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:11:42 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:11:42 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:11:42 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:11:42 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:11:42 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:11:42 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:11:42 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:11:42 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:11:58 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 13788@DESKTOP-9IGFIE3
+
+[2021-05-15 18:11:58 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:11:58 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:11:58 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:11:58 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:11:58 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:11:58 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:11:58 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:11:58 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:11:58 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:12:26 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 14-19)
+
+[2021-05-15 18:12:26 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 14592@DESKTOP-9IGFIE3
+
+[2021-05-15 18:12:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:12:26 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:12:26 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:12:26 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:12:26 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:12:26 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:12:26 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:12:26 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:12:26 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:12:47 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 14976@DESKTOP-9IGFIE3
+
+[2021-05-15 18:12:48 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:12:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:12:48 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:12:48 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:12:48 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:12:48 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:12:48 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:12:48 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:12:48 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:12:48 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:12:48 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:12:48 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:12:48 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:12:48 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:12:48 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:12:48 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:12:48 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:12:48 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:12:48 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:12:48 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:12:48 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:12:48 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:12:48 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:13:08 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 8196@DESKTOP-9IGFIE3
+
+[2021-05-15 18:13:09 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:13:09 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:13:09 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:13:09 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:13:09 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:13:09 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:13:09 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:13:09 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:13:09 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:13:09 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:13:09 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:13:09 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:13:09 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:13:09 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:13:09 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:13:09 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:13:09 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:13:09 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:13:09 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:13:09 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:13:09 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:13:09 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:13:09 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:13:44 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 18:13:44 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 304@DESKTOP-9IGFIE3
+
+[2021-05-15 18:13:44 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:13:44 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:13:44 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:13:44 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:13:44 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:13:44 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:13:44 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:13:44 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:13:44 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:14:14 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 14-19)
+
+[2021-05-15 18:14:14 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 7412@DESKTOP-9IGFIE3
+
+[2021-05-15 18:14:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:14:14 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:14:14 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:14:14 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:14:14 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:14:14 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:14:14 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:14:14 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:14:14 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:19:14 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 16936@DESKTOP-9IGFIE3
+
+[2021-05-15 18:19:14 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:19:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:19:14 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:19:14 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:19:14 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:19:14 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:19:14 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:19:14 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:19:14 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:19:14 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:19:14 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:19:14 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:19:14 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:19:14 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:19:14 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:19:14 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:19:14 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:19:14 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:19:14 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:19:14 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:19:14 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:19:14 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:19:14 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:19:51 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 18:19:51 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 14728@DESKTOP-9IGFIE3
+
+[2021-05-15 18:19:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:19:51 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:19:51 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:19:51 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:19:51 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:19:51 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:19:51 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:19:51 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:19:51 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:22:16 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 7356@DESKTOP-9IGFIE3
+
+[2021-05-15 18:22:16 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:22:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:22:16 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:22:16 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:22:16 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:22:16 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:22:16 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:22:16 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:22:16 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:22:16 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:22:16 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:22:16 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:22:16 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:22:16 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:22:16 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:22:16 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:22:16 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:22:16 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:22:16 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:22:16 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:22:16 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:22:16 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:22:16 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:22:59 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 18:22:59 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 2060@DESKTOP-9IGFIE3
+
+[2021-05-15 18:22:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:22:59 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:22:59 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:22:59 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:22:59 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:22:59 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:22:59 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:22:59 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:22:59 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:23:28 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 4992@DESKTOP-9IGFIE3
+
+[2021-05-15 18:23:28 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:23:28 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:23:28 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:23:28 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:23:28 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:23:28 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:23:28 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:23:28 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:23:28 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:26:07 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 13368@DESKTOP-9IGFIE3
+
+[2021-05-15 18:26:07 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:26:07 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:26:07 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:26:07 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:26:07 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:26:07 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:26:07 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:26:07 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:26:07 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:26:29 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 15072@DESKTOP-9IGFIE3
+
+[2021-05-15 18:26:30 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:26:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:26:30 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:26:30 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:26:30 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:26:30 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:26:30 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:26:30 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:26:30 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:26:30 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:26:30 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:26:30 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:26:30 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:26:30 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:26:30 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:26:30 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:26:30 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:26:30 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:26:30 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:26:30 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:26:30 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:26:30 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:26:30 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:26:59 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 18:26:59 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 2360@DESKTOP-9IGFIE3
+
+[2021-05-15 18:26:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:26:59 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:26:59 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:26:59 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:26:59 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:27:00 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:27:00 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:27:00 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:27:00 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:29:21 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 7692@DESKTOP-9IGFIE3
+
+[2021-05-15 18:29:21 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:29:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:29:21 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:29:21 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:29:21 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:29:21 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:29:21 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:29:21 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:29:21 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:29:21 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:29:21 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:29:21 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:29:21 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:29:21 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:29:21 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:29:21 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:29:21 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:29:21 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:29:21 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:29:21 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:29:21 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:29:21 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:29:21 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:29:50 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 18:29:50 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 9776@DESKTOP-9IGFIE3
+
+[2021-05-15 18:29:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:29:51 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:29:51 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:29:51 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:29:51 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:29:51 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:29:51 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:29:51 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:29:51 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:31:08 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 14-16)
+
+[2021-05-15 18:31:08 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 14544@DESKTOP-9IGFIE3
+
+[2021-05-15 18:31:09 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:31:09 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:31:09 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:31:09 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:31:09 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:31:09 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:31:09 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:31:09 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:31:09 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:33:04 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 864@DESKTOP-9IGFIE3
+
+[2021-05-15 18:33:04 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:33:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:33:04 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:33:04 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:33:04 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:33:04 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:33:04 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:33:04 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:33:04 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:33:04 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:33:04 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:33:04 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:33:04 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:33:04 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:33:04 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:33:04 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:33:04 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:33:04 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:33:04 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:33:04 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:33:04 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:33:04 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:33:04 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:33:41 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 18:33:41 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 8564@DESKTOP-9IGFIE3
+
+[2021-05-15 18:33:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:33:41 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:33:41 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:33:41 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:33:41 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:33:41 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:33:41 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:33:41 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:33:41 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:33:48 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 7260@DESKTOP-9IGFIE3
+
+[2021-05-15 18:33:48 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:33:48 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:33:48 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:33:48 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:33:48 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:33:48 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:33:48 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:33:48 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:33:48 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:35:22 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 14892@DESKTOP-9IGFIE3
+
+[2021-05-15 18:35:23 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:35:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:35:23 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:35:23 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:35:23 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:35:23 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:35:23 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:35:23 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:35:23 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:35:23 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:35:23 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:35:23 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:35:23 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:35:23 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:35:23 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:35:23 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:35:23 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:35:23 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:35:23 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:35:23 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:35:23 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:35:23 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:35:23 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:35:47 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 16888@DESKTOP-9IGFIE3
+
+[2021-05-15 18:35:47 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:35:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:35:47 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:35:47 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:35:47 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:35:47 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:35:47 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:35:47 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:35:47 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:35:47 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:35:47 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:35:47 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:35:47 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:35:47 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:35:47 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:35:47 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:35:47 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:35:47 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:35:47 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:35:47 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:35:47 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:35:47 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:35:47 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:36:17 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 18:36:17 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 10008@DESKTOP-9IGFIE3
+
+[2021-05-15 18:36:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:36:17 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:36:17 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:36:17 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:36:17 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:36:17 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:36:17 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:36:17 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:36:17 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:38:02 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 14-16)
+
+[2021-05-15 18:38:02 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 7216@DESKTOP-9IGFIE3
+
+[2021-05-15 18:38:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:38:02 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:38:02 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:38:02 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:38:02 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:38:02 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:38:02 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:38:02 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:38:02 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:39:23 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 6280@DESKTOP-9IGFIE3
+
+[2021-05-15 18:39:23 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:39:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:39:23 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:39:23 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:39:23 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:39:23 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:39:23 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:39:23 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:39:23 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:39:23 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:39:23 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:39:23 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:39:23 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:39:23 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:39:23 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:39:23 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:39:23 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:39:23 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:39:23 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:39:23 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:39:23 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:39:23 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:39:23 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:40:07 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 18:40:08 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 12692@DESKTOP-9IGFIE3
+
+[2021-05-15 18:40:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:40:08 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:40:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:40:08 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:40:08 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:40:08 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:40:08 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:40:08 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:40:08 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:42:17 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 10700@DESKTOP-9IGFIE3
+
+[2021-05-15 18:42:17 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:42:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:42:17 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:42:17 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:42:17 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:42:17 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:42:17 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:42:17 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:42:17 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:42:17 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:42:17 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:42:17 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:42:17 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:42:17 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:42:17 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:42:17 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:42:17 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:42:17 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:42:17 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:42:17 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:42:17 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:42:17 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:42:17 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:42:58 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 18:42:58 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 9300@DESKTOP-9IGFIE3
+
+[2021-05-15 18:42:58 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:42:58 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:42:58 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:42:58 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:42:58 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:42:58 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:42:58 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:42:58 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:42:58 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:46:54 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 10596@DESKTOP-9IGFIE3
+
+[2021-05-15 18:46:54 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:46:54 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:46:54 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:46:54 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:46:54 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:46:54 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:46:54 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:46:54 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:46:54 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:46:54 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:46:54 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:46:54 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:46:54 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:46:54 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:46:54 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:46:54 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:46:54 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:46:54 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:46:54 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:46:54 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:46:54 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:46:54 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:46:54 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:47:31 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 18:47:31 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 6696@DESKTOP-9IGFIE3
+
+[2021-05-15 18:47:32 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:47:32 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:47:32 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:47:32 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:47:32 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:47:32 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:47:32 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:47:32 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:47:32 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:50:16 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 7576@DESKTOP-9IGFIE3
+
+[2021-05-15 18:50:17 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:50:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:50:17 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:50:17 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:50:17 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:50:17 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:50:17 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:50:17 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:50:17 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:50:17 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:50:17 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:50:17 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:50:17 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:50:17 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:50:17 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:50:17 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:50:17 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:50:17 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:50:17 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:50:17 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:50:17 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:50:17 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:50:17 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:50:47 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 18:50:47 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 6000@DESKTOP-9IGFIE3
+
+[2021-05-15 18:50:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:50:47 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:50:47 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:50:47 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:50:47 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:50:47 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:50:47 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:50:47 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:50:47 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:54:47 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 14-16)
+
+[2021-05-15 18:54:47 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 9312@DESKTOP-9IGFIE3
+
+[2021-05-15 18:54:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:54:47 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:54:47 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:54:47 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:54:47 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:54:47 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:54:47 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:54:47 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:54:47 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:55:08 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 14916@DESKTOP-9IGFIE3
+
+[2021-05-15 18:55:09 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 18:55:09 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:55:09 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 18:55:09 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 18:55:09 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:55:09 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 18:55:09 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 18:55:09 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:55:09 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 18:55:09 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:55:09 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:55:09 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 18:55:09 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 18:55:09 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:55:09 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:55:09 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 18:55:09 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:55:09 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 18:55:09 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 18:55:09 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 18:55:09 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 18:55:09 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 18:55:09 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:55:42 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2021-05-15 18:55:42 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 11520@DESKTOP-9IGFIE3
+
+[2021-05-15 18:55:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:55:42 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:55:42 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:55:42 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:55:42 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:55:42 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:55:42 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:55:42 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:55:42 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:55:48 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 1540@DESKTOP-9IGFIE3
+
+[2021-05-15 18:55:49 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:55:49 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:55:49 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:55:49 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:55:49 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:55:49 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:55:49 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:55:49 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:55:49 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:56:59 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 14-15)
+
+[2021-05-15 18:56:59 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 12916@DESKTOP-9IGFIE3
+
+[2021-05-15 18:56:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:56:59 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:56:59 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:56:59 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:56:59 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:56:59 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:56:59 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:56:59 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:56:59 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:57:06 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 12016@DESKTOP-9IGFIE3
+
+[2021-05-15 18:57:06 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:57:06 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:57:06 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:57:06 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:57:06 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:57:06 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:57:06 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:57:06 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:57:06 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 18:57:34 #1 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' has been recovered (tr. 16-18)
+
+[2021-05-15 18:57:34 #2 store] 
+Database 'C:\Users\Iker Sancho\eclipse-workspaceProiektua\Bets21\src\main\resources\bets.temp' is opened by 11000@DESKTOP-9IGFIE3
+
+[2021-05-15 18:57:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 18:57:34 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 18:57:34 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 18:57:34 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 18:57:34 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 18:57:34 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 18:57:34 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 18:57:34 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 18:57:34 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 20:36:39 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 10964@Mikel
+
+[2021-05-15 20:36:39 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 20:36:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 20:36:39 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 20:36:39 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 20:36:39 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 20:36:39 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 20:36:39 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 20:36:39 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 20:36:39 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 20:36:39 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 20:36:39 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 20:36:39 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 20:36:39 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 20:36:39 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 20:36:39 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 20:36:39 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 20:36:39 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 20:36:39 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 20:36:39 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 20:36:39 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 20:36:39 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 20:36:39 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 20:36:39 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 20:39:23 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 7400@Mikel
+
+[2021-05-15 20:39:23 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 20:39:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 20:39:23 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 20:39:23 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 20:39:23 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 20:39:23 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 20:39:23 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 20:39:23 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 20:39:23 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 20:39:23 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 20:39:23 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 20:39:23 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 20:39:23 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 20:39:23 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 20:39:23 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 20:39:23 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 20:39:23 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 20:39:23 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 20:39:23 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 20:39:23 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 20:39:23 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 20:39:23 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 20:39:23 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 20:46:07 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 14268@Mikel
+
+[2021-05-15 20:46:07 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 20:46:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 20:46:07 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 20:46:07 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 20:46:07 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 20:46:07 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 20:46:07 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 20:46:07 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 20:46:07 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 20:46:07 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 20:46:07 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 20:46:07 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 20:46:07 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 20:46:07 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 20:46:07 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 20:46:07 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 20:46:07 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 20:46:07 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 20:46:07 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 20:46:07 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 20:46:07 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 20:46:07 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 20:46:07 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 20:47:35 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 6936@Mikel
+
+[2021-05-15 20:47:35 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 20:47:35 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 20:47:35 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 20:47:35 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 20:47:35 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 20:47:35 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 20:47:35 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 20:47:35 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 20:47:35 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 20:47:35 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 20:47:35 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 20:47:35 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 20:47:35 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 20:47:35 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 20:47:35 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 20:47:35 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 20:47:35 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 20:47:35 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 20:47:35 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 20:47:35 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 20:47:35 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 20:47:35 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 20:47:35 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 20:54:47 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 16772@LAPTOP-PR5SQP5G
+
+[2021-05-15 20:54:47 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 20:54:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 20:54:47 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 20:54:47 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 20:54:47 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 20:54:47 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 20:54:47 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 20:54:47 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 20:54:47 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 20:54:47 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 20:54:47 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 20:54:47 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 20:54:47 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 20:54:47 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 20:54:47 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 20:54:47 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 20:54:47 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 20:54:47 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 20:54:47 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 20:54:47 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 20:54:47 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 20:54:47 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 20:54:47 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 20:55:03 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 20972@LAPTOP-PR5SQP5G
+
+[2021-05-15 20:55:04 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 20:55:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 20:55:04 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 20:55:04 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 20:55:04 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 20:55:04 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 20:55:04 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 20:55:04 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 20:55:04 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 20:55:04 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 20:55:04 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 20:55:04 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 20:55:04 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 20:55:04 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 20:55:04 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 20:55:04 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 20:55:04 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 20:55:04 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 20:55:04 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 20:55:04 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 20:55:04 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 20:55:04 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 20:55:04 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 20:56:45 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-15)
+
+[2021-05-15 20:56:45 #2 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 3336@LAPTOP-PR5SQP5G
+
+[2021-05-15 20:56:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 20:56:45 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 20:56:45 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 20:56:45 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 20:56:45 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 20:56:45 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 20:56:45 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 20:56:45 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 20:56:45 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 21:04:13 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' has been recovered (tr. 16-20)
+
+[2021-05-15 21:04:14 #2 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 1892@LAPTOP-PR5SQP5G
+
+[2021-05-15 21:04:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 21:04:14 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 21:04:14 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 21:04:14 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 21:04:14 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 21:04:14 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 21:04:14 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 21:04:14 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 21:04:14 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 21:12:31 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 21724@LAPTOP-PR5SQP5G
+
+[2021-05-15 21:12:31 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 21:12:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 21:12:31 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 21:12:31 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 21:12:31 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 21:12:31 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 21:12:31 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 21:12:31 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 21:12:31 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 21:12:31 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 21:12:31 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 21:12:31 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 21:12:31 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 21:12:31 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 21:12:31 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 21:12:31 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 21:12:31 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 21:12:31 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 21:12:31 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 21:12:31 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 21:12:31 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 21:12:31 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 21:12:31 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 21:12:45 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-10)
+
+[2021-05-15 21:12:45 #2 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 9472@LAPTOP-PR5SQP5G
+
+[2021-05-15 21:12:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 21:12:45 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 21:12:45 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 21:12:45 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 21:12:45 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 21:12:45 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 21:12:45 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 21:12:45 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 21:12:45 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 21:25:08 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' has been recovered (tr. 11-18)
+
+[2021-05-15 21:25:08 #2 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 23124@LAPTOP-PR5SQP5G
+
+[2021-05-15 21:25:09 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 21:25:09 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 21:25:09 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 21:25:09 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 21:25:09 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 21:25:09 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 21:25:09 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 21:25:09 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 21:25:09 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 21:26:19 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 23492@LAPTOP-PR5SQP5G
+
+[2021-05-15 21:26:19 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 21:26:19 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 21:26:19 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 21:26:19 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 21:26:19 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 21:26:19 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 21:26:19 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 21:26:19 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 21:26:19 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 21:29:50 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 22680@LAPTOP-PR5SQP5G
+
+[2021-05-15 21:29:50 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 21:29:50 #3 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 21:29:50 #4 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 21:29:50 #5 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 21:29:50 #6 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 21:29:50 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 21:29:50 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 21:29:50 #9 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 21:29:50 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 21:31:42 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 11288@LAPTOP-PR5SQP5G
+
+[2021-05-15 21:31:42 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 21:31:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 21:31:42 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 21:31:42 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 21:31:42 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 21:31:42 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 21:31:42 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 21:31:42 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 21:31:42 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 21:31:42 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 21:31:42 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 21:31:42 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 21:31:42 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 21:31:42 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 21:31:42 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 21:31:42 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 21:31:42 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 21:31:42 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 21:31:42 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 21:31:42 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 21:31:42 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 21:31:42 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 21:31:42 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 21:36:02 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 20516@LAPTOP-PR5SQP5G
+
+[2021-05-15 21:36:03 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 21:36:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 21:36:03 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 21:36:03 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 21:36:03 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 21:36:03 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 21:36:03 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 21:36:03 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 21:36:03 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 21:36:03 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 21:36:03 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 21:36:03 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 21:36:03 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 21:36:03 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 21:36:03 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 21:36:03 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 21:36:03 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 21:36:03 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 21:36:03 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 21:36:03 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 21:36:03 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 21:36:03 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 21:36:03 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:04:53 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 24500@LAPTOP-PR5SQP5G
+
+[2021-05-15 22:04:53 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 22:04:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 22:04:53 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 22:04:53 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 22:04:53 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 22:04:53 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 22:04:53 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 22:04:53 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 22:04:53 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 22:04:53 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 22:04:53 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 22:04:53 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 22:04:53 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 22:04:53 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 22:04:53 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 22:04:53 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 22:04:53 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 22:04:53 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 22:04:53 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 22:04:53 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 22:04:53 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 22:04:53 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 22:04:53 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:05:35 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-10)
+
+[2021-05-15 22:05:35 #2 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 23784@LAPTOP-PR5SQP5G
+
+[2021-05-15 22:05:35 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 22:05:35 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 22:05:35 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 22:05:35 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 22:05:35 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 22:05:35 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 22:05:35 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 22:05:35 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 22:05:35 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:10:39 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 23700@LAPTOP-PR5SQP5G
+
+[2021-05-15 22:10:39 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 22:10:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 22:10:39 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 22:10:39 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 22:10:39 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 22:10:39 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 22:10:39 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 22:10:39 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 22:10:39 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 22:10:39 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 22:10:39 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 22:10:39 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 22:10:39 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 22:10:39 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 22:10:39 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 22:10:39 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 22:10:39 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 22:10:39 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 22:10:39 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 22:10:39 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 22:10:39 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 22:10:39 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 22:10:39 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:10:58 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-10)
+
+[2021-05-15 22:10:58 #2 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 22368@LAPTOP-PR5SQP5G
+
+[2021-05-15 22:10:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 22:10:59 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 22:10:59 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 22:10:59 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 22:10:59 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 22:10:59 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 22:10:59 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 22:10:59 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 22:10:59 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:15:08 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 11268@LAPTOP-PR5SQP5G
+
+[2021-05-15 22:15:08 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 22:15:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 22:15:08 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 22:15:08 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 22:15:08 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 22:15:08 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 22:15:08 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 22:15:08 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 22:15:08 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 22:15:08 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 22:15:08 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 22:15:08 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 22:15:08 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 22:15:08 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 22:15:08 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 22:15:08 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 22:15:08 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 22:15:08 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 22:15:08 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 22:15:08 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 22:15:08 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 22:15:08 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 22:15:08 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+[2021-05-15 22:16:01 #25 type.registry] 
+New type java.util.Vector<domain.Erregistratua>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:24:17 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 23976@LAPTOP-PR5SQP5G
+
+[2021-05-15 22:24:17 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 22:24:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 22:24:17 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 22:24:17 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 22:24:17 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 22:24:17 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 22:24:17 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 22:24:17 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 22:24:17 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 22:24:17 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 22:24:17 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 22:24:17 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 22:24:17 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 22:24:17 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 22:24:17 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 22:24:17 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 22:24:17 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 22:24:17 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 22:24:17 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 22:24:17 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 22:24:17 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 22:24:17 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 22:24:17 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:24:41 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-10)
+
+[2021-05-15 22:24:41 #2 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 24092@LAPTOP-PR5SQP5G
+
+[2021-05-15 22:24:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 22:24:41 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 22:24:41 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 22:24:41 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 22:24:41 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 22:24:41 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 22:24:41 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 22:24:41 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 22:24:41 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 22:25:05 #12 type.registry] 
+New type java.util.Vector<domain.Erregistratua>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:27:59 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' has been recovered (tr. 11-15)
+
+[2021-05-15 22:27:59 #2 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 14072@LAPTOP-PR5SQP5G
+
+[2021-05-15 22:27:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 22:27:59 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 22:27:59 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 22:27:59 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 22:27:59 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 22:27:59 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 22:27:59 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 22:27:59 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 22:27:59 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:28:34 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 23300@LAPTOP-PR5SQP5G
+
+[2021-05-15 22:28:35 #2 type.registry] 
+New type domain.Question
+
+[2021-05-15 22:28:35 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 22:28:35 #4 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 22:28:35 #5 type.registry] 
+New type domain.Event
+
+[2021-05-15 22:28:35 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 22:28:35 #7 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 22:28:35 #8 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 22:28:35 #9 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 22:28:35 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 22:28:35 #11 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 22:28:35 #12 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 22:28:35 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 22:28:35 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 22:28:35 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 22:28:35 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 22:28:35 #17 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 22:28:35 #18 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 22:28:35 #19 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 22:28:35 #20 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 22:28:35 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 22:28:35 #22 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 22:28:35 #23 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 22:28:35 #24 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:28:47 #1 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-10)
+
+[2021-05-15 22:28:47 #2 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\bets.temp' is opened by 18692@LAPTOP-PR5SQP5G
+
+[2021-05-15 22:28:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 22:28:47 #4 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 22:28:47 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 22:28:47 #6 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 22:28:47 #7 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 22:28:47 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 22:28:47 #9 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 22:28:47 #10 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 22:28:47 #11 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 22:29:10 #12 type.registry] 
+New type java.util.Vector<domain.Erregistratua>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:30:41 #1 server] 
+Server on port 6136 has started by 6308@LAPTOP-PR5SQP5G
+
+[2021-05-15 22:30:44 #2 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\db\src\main\resources\bets.temp' is opened by 6308@LAPTOP-PR5SQP5G
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:30:44 #1 type.registry] 
+New type domain.Question
+
+[2021-05-15 22:30:44 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 22:30:44 #3 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 22:30:44 #4 type.registry] 
+New type domain.Event
+
+[2021-05-15 22:30:44 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 22:30:44 #6 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 22:30:44 #7 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 22:30:44 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 22:30:44 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 22:30:44 #10 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 22:30:44 #11 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 22:30:44 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 22:30:44 #13 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 22:30:44 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 22:30:44 #15 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 22:30:45 #16 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 22:30:45 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 22:30:45 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 22:30:45 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 22:30:45 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 22:30:45 #21 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 22:30:45 #22 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 22:30:45 #23 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+[2021-05-15 22:30:54 #3 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\db\src\main\resources\bets.temp' is closed by 6308@LAPTOP-PR5SQP5G
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:31:04 #1 server] 
+Server on port 6136 has started by 22576@LAPTOP-PR5SQP5G
+
+[2021-05-15 22:31:07 #2 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\db\src\main\resources\bets.temp' is opened by 22576@LAPTOP-PR5SQP5G
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:31:08 #1 type.registry] 
+New type domain.Question
+
+[2021-05-15 22:31:08 #2 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 22:31:08 #3 type.registry] 
+New type domain.Kuota
+
+[2021-05-15 22:31:08 #4 type.registry] 
+New type domain.Event
+
+[2021-05-15 22:31:08 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 22:31:08 #6 type.registry] 
+New type domain.Emaitza
+
+[2021-05-15 22:31:08 #7 type.registry] 
+New type domain.Apostu
+
+[2021-05-15 22:31:08 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 22:31:08 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-15 22:31:08 #10 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 22:31:08 #11 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 22:31:08 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-05-15 22:31:08 #13 type.registry] 
+New type domain.Erregistratua
+
+[2021-05-15 22:31:08 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 22:31:08 #15 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 22:31:08 #16 type.registry] 
+New type domain.Langilea
+
+[2021-05-15 22:31:08 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 22:31:08 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-05-15 22:31:08 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 22:31:08 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-15 22:31:08 #21 type.registry] 
+New type java.util.Vector<domain.Kuota>
+
+[2021-05-15 22:31:08 #22 type.registry] 
+New type java.util.Vector<java.lang.Double>
+
+[2021-05-15 22:31:08 #23 type.registry] 
+New type java.util.Vector<domain.Apostu>
+
+[2021-05-15 22:31:14 #3 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\db\src\main\resources\bets.temp' is closed by 22576@LAPTOP-PR5SQP5G
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:31:25 #1 server] 
+Server on port 6136 has started by 17012@LAPTOP-PR5SQP5G
+
+[2021-05-15 22:31:30 #2 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\db\src\main\resources\bets.temp' is opened by 17012@LAPTOP-PR5SQP5G
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 22:31:30 #1 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-15 22:31:30 #2 type] 
+Type domain.Kuota is not enhanced.
+
+[2021-05-15 22:31:30 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-15 22:31:30 #4 type] 
+Type domain.Emaitza is not enhanced.
+
+[2021-05-15 22:31:30 #5 type] 
+Type domain.Apostu is not enhanced.
+
+[2021-05-15 22:31:30 #6 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-05-15 22:31:30 #7 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-05-15 22:31:30 #8 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-15 22:31:30 #9 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-05-15 22:37:13 #10 type.registry] 
+New type java.util.Vector<domain.Erregistratua>
+
+[2021-05-15 22:42:07 #3 store] 
+Database 'D:\OneDrive\Uni\SI1\Proiektua\Iterazioak\Bets21\src\main\resources\db\src\main\resources\bets.temp' is closed by 17012@LAPTOP-PR5SQP5G
+
